@@ -36,7 +36,7 @@ Les 4 outils standard sont :
     - pile pleine (stack full) qui renvoi un booléen vrai quand la pile est pleine fonctionne en symbiose avec push
     - 5e service non standard | Affichage de la pile ATTENTION on respect le protocole, on va du sommet vers la base 
 
-Exemple : gestion d’une pile 
+Exemple : gestion d’une pile
 
 (cf photo discord/ jules)
 
