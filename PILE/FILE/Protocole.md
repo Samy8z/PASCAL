@@ -56,14 +56,14 @@ Toutes ces variables c'est à dire l'âge,sex,code postal et l’adresse sont ma
 
 Définition algorithmique de l’individu :
 
-Type t_individu = Structure
-    Age : Entier
-    Sexe : Char
-    CoPos : t_Tab_CoPos
-    Adresse : Chaine [500]
-finStructure
-Variable
-    individu : t_individu
+    Type t_individu = Structure
+        Age : Entier  
+        Sexe : Char  
+        CoPos : t_Tab_CoPos  
+        Adresse : Chaine [500]  
+    finStructure
+    Variable
+        individu : t_individu
 
 P.P.
 individu.Age ← 20
