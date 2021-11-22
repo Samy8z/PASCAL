@@ -1,1 +1,3 @@
-program 
+program chaine;
+type
+var 
